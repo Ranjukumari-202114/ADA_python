@@ -24,7 +24,6 @@ def partition(arr,left,right):                                  #function for so
 
     return i    
 
-             
 my_arr  = [34,45,23,90,54,76,87,65,43,98]
 print(my_arr)
 quicksort(my_arr,0,len(my_arr)-1)                               #function call
